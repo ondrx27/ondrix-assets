@@ -1,0 +1,23 @@
+{
+  "name": "ONDRX",
+  "symbol": "ONDRX",
+  "type": "BEP20",
+  "decimals": 9,
+  "description": "ONDRX is a utility-driven project built on transparency, audited code and long-term stability. No hype, no influencers — only real utility, on-chain security and a clear vision for the future.",
+  "website": "https://ondrix.com",
+  "explorer": "https://bscscan.com/token/0x60a7Ac3A1f34f3AE11adFB500E9257e4DabFFd12",
+  "links": [
+    { "name": "twitter", "url": "https://x.com/OndrixOfficial" },
+    { "name": "telegram", "url": "https://t.me/JoinOndrix" },
+    { "name": "medium", "url": "https://medium.com/@ondrixofficial" },
+    { "name": "linkedin", "url": "https://www.linkedin.com/in/ionut-mihaila-a67828372" }
+  ],
+  "origin": {
+    "chain": "Solana",
+    "mint": "65e1XDhmJixfLEiK9GGaLvvGDi3kJYjAs8oAUvG477UN",
+    "explorer": "https://solscan.io/token/65e1XDhmJixfLEiK9GGaLvvGDi3kJYjAs8oAUvG477UN"
+  },
+  "status": "active",
+  "chainId": 56,
+  "id": "0x60a7Ac3A1f34f3AE11adFB500E9257e4DabFFd12"
+}

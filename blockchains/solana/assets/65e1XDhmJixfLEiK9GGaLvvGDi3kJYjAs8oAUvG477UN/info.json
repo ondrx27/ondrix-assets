@@ -1,0 +1,36 @@
+{
+  "name": "ONDRIX",
+  "symbol": "ONDRX",
+  "decimals": 9,
+  "description": "ONDRX is a utility-driven project built on transparency, audited code and long-term stability. No hype, no influencers — only real utility, on-chain security and a clear vision for the future.",
+  "image": "https://scarlet-defensive-sturgeon-462.mypinata.cloud/ipfs/bafybeib7t5ql33zgdgwvdkdpn3ux3kek6puhyac7omqwl325hvgh7hbf5i",
+  "attributes": [
+    {"trait_type": "Supply", "value": "Fixed"},
+    {"trait_type": "Total Supply", "value": "500,000,000"}
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://scarlet-defensive-sturgeon-462.mypinata.cloud/ipfs/bafybeib7t5ql33zgdgwvdkdpn3ux3kek6puhyac7omqwl325hvgh7hbf5i",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CSkUx7qyCXMjj9DeCG24khXrvuSHSj6rCCDVPNTsc21p",
+        "share": 100,
+        "verified": 1
+      }
+    ]
+  },
+  "seller_fee_basis_points": 0,
+  "tags": ["utility-token", "defi", "escrow"],
+  "extensions": {
+    "website": "https://ondrix.com",
+    "twitter": "https://x.com/OndrixOfficial",
+    "telegram": "https://t.me/JoinOndrix",
+    "medium": "https://medium.com/@ondrixofficial",
+    "linkedin": "https://www.linkedin.com/in/ionut-mihaila-a67828372",
+    "explorer": "https://solscan.io/token/65e1XDhmJixfLEiK9GGaLvvGDi3kJYjAs8oAUvG477UN"
+  }
+}
