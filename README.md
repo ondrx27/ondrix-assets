@@ -1,6 +1,6 @@
 # ONDRIX Assets
 
-Official ONDRIX token assets and metadata repository for blockchain explorers and listing platforms.
+Official ONDRX token assets and metadata repository for blockchain explorers and listing platforms.
 
 ## Repository Structure
 
@@ -9,7 +9,7 @@ ondrix-assets/
 └── blockchains/
     ├── solana/
     │   └── assets/
-    │       └── AS2EQwQjFchCRY3qi3ZGbNVvhiGRKewAoUgspXw7ZuUj/
+    │       └──/65e1XDhmJixfLEiK9GGaLvvGDi3kJYjAs8oAUvG477UN)
     │           ├── logo.png
     │           └── info.json
     └── smartchain/
@@ -22,10 +22,10 @@ ondrix-assets/
 ## Token Information
 
 ### Solana (SPL Token)
-- **Contract Address**: `AS2EQwQjFchCRY3qi3ZGbNVvhiGRKewAoUgspXw7ZuUj`
+- **Contract**`65e1XDhmJixfLEiK9GGaLvvGDi3kJYjAs8oAUvG477UN
 - **Symbol**: ONDRX
 - **Decimals**: 9
-- **Explorer**: [Solscan](https://solscan.io/token/AS2EQwQjFchCRY3qi3ZGbNVvhiGRKewAoUgspXw7ZuUj)
+- **Explorer**: [Solscan](https://solscan.io/token/65e1XDhmJixfLEiK9GGaLvvGDi3kJYjAs8oAUvG477UN)
 
 ### BNB Smart Chain (BEP-20)
 - **Contract Address**: `0x5fb1432180e73ea9e67dae8c3f9081f25e9577f3`
@@ -36,9 +36,9 @@ ondrix-assets/
 ## Links
 
 - **Website**: [ondrix.com](https://ondrix.com)
-- **Twitter**: [@Ondrix285661](https://x.com/Ondrix285661)
+- **Twitter**: [@Ondrix285661](https://x.com/Ondrixofficial 
 - **Telegram**: [JoinOndrix](https://t.me/JoinOndrix)
-- **Medium**: [@contact_32117](https://medium.com/@contact_32117)
+- **Medium**: [@ondrixofficial(https://medium.com/@ondrixofficial)
 - **LinkedIn**: [ionut-mihaila](https://www.linkedin.com/in/ionut-mihaila-a67828372)
 
 ## Asset Requirements
