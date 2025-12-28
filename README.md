@@ -1,4 +1,4 @@
-# ONDRIX Assets
+# ONDRX Official 
 
 Official ONDRX token assets and metadata repository for blockchain explorers and listing platforms.
 
